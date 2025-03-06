@@ -1,6 +1,7 @@
 [submodule "panda"]
   path = panda
   url = https://github.com/eduardogarufi/panda.git
+    branch = vw-meb
 [submodule "opendbc"]
   path = opendbc_repo
   url = https://github.com/eduardogarufi/opendbc.git
